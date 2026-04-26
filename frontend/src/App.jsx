@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 
-const API_URL = 'http://localhost:8000';
+const API_URL = "https://interactive-quiz-web-application-backend.onrender.com";
 
 /* ════════════════════════════════════════════════════════════
    Main App – routes between screens via state machine
